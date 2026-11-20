@@ -45,3 +45,8 @@ Poppins Regular (400) and SemiBold (600), SIL Open Font License (`OFL.txt`).
 | ink-muted | #6B7280 | #A7A3C9 |
 | link | #1D6FE0 | #4A9CFF |
 | ink-on-brand (text on blue/aqua) | #0F0133 | #0F0133 |
+
+## License
+© Odraz. Everything in this repo except the fonts is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) (see `LICENSE`). Press, articles and reviews are welcome to use the assets as-is. Please don't modify them or use them in a way that implies endorsement by or affiliation with Odraz.
+
+The fonts in `fonts/` are Poppins, licensed separately under the SIL Open Font License (`fonts/OFL.txt`).
