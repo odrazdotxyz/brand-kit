@@ -2,6 +2,9 @@
 
 Odraz is the parent brand for every client app and the website. The full brand book (logo rules, colors, typography, components) lives in the Odraz design system; this kit holds the files to build with.
 
+## Apps
+- [`ogram/`](ogram/): brand kit for ogram, the photo gallery app (same structure as below).
+
 ## svg/ (masters, transparent unless noted)
 - `odraz-mark.svg`: the mark (clouds + reflection)
 - `odraz-lockup-dark-text.svg`, `odraz-lockup-light-text.svg`: horizontal lockups for light / dark grounds
