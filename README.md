@@ -4,6 +4,7 @@ Odraz is the parent brand for every client app and the website. The full brand b
 
 ## Apps
 - [`ogram/`](ogram/): brand kit for ogram, the photo gallery app (same structure as below).
+- [`odrive/`](odrive/): brand kit for odrive, the drive (file storage) app (same structure as below).
 
 ## svg/ (masters, transparent unless noted)
 - `odraz-mark.svg`: the mark (clouds + reflection)
