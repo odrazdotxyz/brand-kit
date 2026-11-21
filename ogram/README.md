@@ -1,6 +1,6 @@
 # ogram brand kit
 
-ogram is the photo gallery app in the Odraz family. Its mark is a lotus: three petals in Odraz purple, blue and aqua, mirrored in a fading reflection like the Odraz logo. It follows the Odraz brandbook for colors, type (Poppins) and usage rules.
+ogram is the photo gallery app in the Odraz family. Its mark is a lotus: three petals in Odraz purple, blue and aqua, standing on a flat waterline with a thin gap above a fading reflection, like the Odraz and odrive logos. It follows the Odraz brandbook for colors, type (Poppins) and usage rules.
 
 ## svg/ (masters, transparent unless noted)
 - `ogram-mark.svg`: the mark (petals + reflection)
