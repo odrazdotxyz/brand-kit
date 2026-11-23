@@ -30,6 +30,8 @@ Poppins Regular (400) and SemiBold (600), SIL Open Font License (`OFL.txt`).
 | ink-on-brand (text on blue/aqua) | #0F0133 | #0F0133 |
 
 ## License
-© Odraz. Everything in this repo except the fonts is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) (see `LICENSE`). Press, articles and reviews are welcome to use the assets as-is. Please don't modify them or use them in a way that implies endorsement by or affiliation with Odraz.
+© Odraz. Three licences, by folder:
 
-The fonts in `fonts/` are Poppins, licensed separately under the SIL Open Font License (`fonts/OFL.txt`).
+* **Logos and brand assets** (`odraz/`, `odrive/`, `ogram/`) are licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) (see `LICENSE`). Press, articles and reviews are welcome to use them as-is. Please don't modify them or use them in a way that implies endorsement by or affiliation with Odraz.
+* **Design tokens** (`tokens/`: `odraz.css`, `tokens.json`) are licensed under the **MIT licence** (`tokens/LICENSE`). Use and change them freely, for example to build your own theme or to drop the Google Fonts import. Their use does not give you the right to use Odraz's logos or name.
+* **Fonts** (`fonts/`) are Poppins, licensed under the SIL Open Font License (`fonts/OFL.txt`).
